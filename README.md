@@ -1,9 +1,9 @@
 # ALIENS-R-REAL
 
-A quick practive with Javascript.
+A quick practice with Javascript.
 
 ALIENS-R-REAL is a database of alien sightings across the world. 
 This bootstrap-designed website loads a table with data through JavaScript.
-The data can be searched through with event listeners on the right.
+The data can be queried with event listener on top.
 
-Beware the scrolling text
+Beware the scrolling text . . .
